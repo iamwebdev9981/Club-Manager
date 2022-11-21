@@ -2,7 +2,7 @@
 
 ##### Admin login -
 * username - admin
-* password - 12345
+* password - An0therTry!
 
 ##### Member login -
 * username - member
